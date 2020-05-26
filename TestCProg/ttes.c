@@ -19,6 +19,8 @@ int main(void){
     //add selection func hereV
     
     return 0;
+	//To keep external console open even after bulid done, make breakpoint here or few lines after.
+	//**I have to find better solution for this
 }
 
 BOOL setpnt(SHORT x, SHORT y) {
